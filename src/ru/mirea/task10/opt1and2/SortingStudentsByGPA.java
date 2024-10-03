@@ -1,4 +1,4 @@
-package ru.mirea.task10.test1;
+package ru.mirea.task10.opt1and2;
 
 import java.util.ArrayList;
 import java.util.Collections;

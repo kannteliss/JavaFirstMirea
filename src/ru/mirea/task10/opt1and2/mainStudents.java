@@ -1,9 +1,8 @@
-package ru.mirea.task10.test1;
+package ru.mirea.task10.opt1and2;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Comparator;
-import java.util.Collections;
 
 public class mainStudents {
     public static void main(String[] args) {
