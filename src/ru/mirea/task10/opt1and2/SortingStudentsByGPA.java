@@ -28,7 +28,7 @@ private List<Student> students;
 //        Collections.sort(students, (s1, s2) -> s2.getName().compareTo(s1.getName()));
 //    }
 
-// Метод для сортировки по GPA
+    // Метод для сортировки по GPA
     public void sortByGPA() {
         Collections.sort(students, Comparator.comparingDouble(Student::getGPA).reversed());
     }
